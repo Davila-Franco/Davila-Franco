@@ -1,4 +1,4 @@
-# Hola, soy Franco Davila👋
+Hola, soy Franco Davila👋
 
 Estudiante de Análisis de Datos y Técnico en Informática (UNLaR), en La Rioja, Argentina.
 
